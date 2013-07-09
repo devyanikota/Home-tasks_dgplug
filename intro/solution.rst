@@ -1,5 +1,5 @@
 ------------
-INTRODUCTION
+Introduction
 ------------
 
     My name is K.Devyani, 2nd year student, CSE dept, studying in Dr.B.C.Roy Engineering College, Durgapur. I am from Kharagpur. My hobbies are painting, skating, playing guitar, listening to music and gaming. Am aquainted with programming languages like C, C++and Java. And, lastly, i want to become a succesful softwarengineer.
